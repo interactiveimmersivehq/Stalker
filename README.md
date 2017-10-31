@@ -117,7 +117,7 @@ Screenshots of the system are saved in data\captures. In most cases full size sc
 `screenshot_YEAR_MONTH_DAY_HOUR_MIN_SECONDS`
 
 ## Limitations
-* Currently only works with a single TouchDesigner088 process running on the system
+* Currently only works with a single TouchDesigner process running on the system
 
 ## Source
 Source files and build instructions coming soon!
