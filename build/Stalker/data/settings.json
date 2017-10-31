@@ -1,0 +1,24 @@
+{
+   "project_details":{
+      "path":"C:\\Some_folder\\use\\double\\backslash\\some.toe",
+      "name":"Name of your project"
+   },
+   "email_credentials" : {
+      "username" : "YOUR.USERNAME@gmail.com",
+      "app_password": "yourGeneratedAppPassword"
+   },
+   "error_email_settings":{
+      "to_email":"RECEIVER@poorSoul.com",
+      "subject_line":"The project just died",
+      "body":"A friendly note that the project here has died, thanks!"
+   },
+   "screen_setup":{
+      "resolution_x":1920,
+      "resolution_y":1080
+   },
+   "launch_wait_timer_in_seconds" : 30,
+   "TCP_port" : 11999,
+   "time_till_termination_in_seconds": 60,
+   "reboot_flag":true,
+   "number_of_crashes_before_reboot":2
+}
